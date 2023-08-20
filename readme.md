@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Covid-19 Tracker]([https://covid-19-tracker-e4bda.web.app/](https://hero777-tech.github.io/digital_mark/))**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pro.codenow@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I possess a multifaceted persona that seamlessly combines my passion for both gaming and coding. Additionally, I revel in celebrating life's moments through engaging social gatherings and events.**
 
 ## 🚀 Languages and Tools:
 
@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hero777-tech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Aditya Nath Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hero777-tech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
