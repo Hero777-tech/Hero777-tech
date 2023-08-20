@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://hero777-tech.github.io/digital_mark/)**
+- 🔭 I’m currently working on **[Dynamic Website_Digital-Mark](https://hero777-tech.github.io/digital_mark/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
