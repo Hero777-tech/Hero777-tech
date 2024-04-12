@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Dynamic Website_Digital-Mark](https://hero777-tech.github.io/digital_mark/)**
+- 🔭 I’m currently working on **LLM FINE TUNING**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Artificial Intelligence Nature-Inspired Computing.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
