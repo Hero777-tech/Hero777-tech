@@ -31,7 +31,7 @@
   <a href="mailto:pro.codenow@gmail.com">
     <img src="https://img.shields.io/badge/📧 Email-pro.codenow@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/aditya-nath-453341221/" target="_blank">
+  <a href="https://www.linkedin.com/in/adityaxnath/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Nath-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
