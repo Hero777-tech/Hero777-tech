@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://akashnath.in/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-techmelive.online-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐 Portfolio-akashnath.in-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:pro.codenow@gmail.com">
     <img src="https://img.shields.io/badge/📧 Email-pro.codenow@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
