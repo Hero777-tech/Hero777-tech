@@ -281,7 +281,7 @@ Nature-Inspired Computing   ████████████░░░░░�
 ## 🤝 Let's Connect & Build Together
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-nath-453341221/" target="_blank">
+  <a href="[https://www.linkedin.com/in/aditya-nath-453341221/](https://www.linkedin.com/in/adityaxnath/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pro.codenow@gmail.com">
