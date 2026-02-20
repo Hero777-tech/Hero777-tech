@@ -2,7 +2,7 @@
 <!--                        BANNER                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a href="https://techmelive.online" target="_blank">
+<a href="https://akashnath.in/" target="_blank">
   <img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Aditya Nath — Full Stack Developer & AI Engineer"/>
 </a>
 
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://techmelive.online" target="_blank">
+  <a href="https://akashnath.in/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-techmelive.online-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:pro.codenow@gmail.com">
@@ -231,13 +231,14 @@ Nature-Inspired Computing   ████████████░░░░░�
 
 <p align="center">
 
-| Area | Topics |
-|---|---|
-| 🧬 **Nature-Inspired AI** | Genetic Algorithms · Particle Swarm Optimization · Ant Colony Optimization |
-| 🤖 **AI Agents** | Multi-Agent Systems · Tool Use · Memory & Planning Architectures |
-| 👁️ **VLMs** | Vision-Language Models · Multimodal Fusion · Visual Grounding |
-| 📡 **Edge AI** | Model Quantization · ONNX · TensorRT · On-Device Inference |
-| 🔗 **Orchestration** | LangChain · LlamaIndex · CrewAI · AutoGen |
+| Area | Topic | Status |
+|------|--------|--------|
+| 🦀 Systems | Rust Programming | `Learning` |
+| 🐹 Backend | Go (Golang) | `Learning` |
+| 🤖 AI | LLM Fine-Tuning | `Active` |
+| 🧬 AI | Nature-Inspired Computing | `Exploring` |
+| ☁️ DevOps | Docker & Containerization | `Practicing` |
+| 🔗 **Orchestration** | LangChain · LlamaIndex · CrewAI · AutoGen | `Active` |
 
 </p>
 
@@ -286,7 +287,7 @@ Nature-Inspired Computing   ████████████░░░░░�
   <a href="mailto:pro.codenow@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://techmelive.online" target="_blank">
+  <a href="https://akashnath.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
